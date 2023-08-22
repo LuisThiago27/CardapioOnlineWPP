@@ -23,6 +23,7 @@
 }
 
 html, body {
+    scroll-behavior: smooth;
     font-family: 'PoppinsRegular', 'sans-serif';
     background-color: var(--color-background);
     color: var(--color-text);
